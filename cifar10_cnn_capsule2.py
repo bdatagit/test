@@ -1894,7 +1894,7 @@
   </div>
 </div>
 
-  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+  <div aria-live="polite" class="js-global-screen-reader-noticce sr-only"></div>
 
   </body>
 </html>
